@@ -1,0 +1,7 @@
+print("Hello user","plz enter your name")
+name=input("enter your name")
+print("Choose your password",name,"\n")
+print("3#4ever*",end="^")
+print("\n@67 4ever")
+password=input("Enetr your choice")
+print("HOORAY Your all set!")
